@@ -27,10 +27,10 @@ A modern course management system built with React and Material UI, developed as
 
 ## Installation
 
-git clone https://github.com/Adwait1609/Course-Helper-GDC.git\n
-cd Course-Helper-GDC\n
-npm install\n
-npm run dev
+-git clone https://github.com/Adwait1609/Course-Helper-GDC.git
+-cd Course-Helper-GDC
+-npm install
+-npm run dev
 
 
 ## Live Demo  
